@@ -70,9 +70,33 @@ header div div a img {
 .main-models {
     align-self: center;
     position: relative;
-    top: 15em;
+    top: 18em;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
 }
+
+#main-item-1, #main-item-2, #main-item-3, #main-item-4 {
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 25vh;
+    width: 12vw;
+}
+
+#main-item-1 {
+    background-image: url(./assets/background-2.jpg);
+}
+
+#main-item-2 {
+    background-image: url(./assets/background-3.jpg);
+}
+
+#main-item-3 {
+    background-image: url(./assets/background-4.jpg);
+}
+
+#main-item-4 {
+    background-image: url(./assets/background-5.jpg);
+}
+
 

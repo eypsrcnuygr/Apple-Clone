@@ -19,11 +19,19 @@ header div {
     background-color: #707070;
 }
 
-header div div {
-    margin-left: 20px;
+.header-item {
+    height: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-right: 1px solid black;
 }
 
 header div div a img {
     width: 35px;
     height: 35px;
 }
+
+.header-item input {
+    border-radius: 40%;
+}
+

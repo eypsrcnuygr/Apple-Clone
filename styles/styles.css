@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    margin-top: 100px;
+}
+
+p {
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+header div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #707070;
+}
+
+header div div {
+    margin-left: 20px;
+}
+
+header div div a img {
+    width: 35px;
+    height: 35px;
+}

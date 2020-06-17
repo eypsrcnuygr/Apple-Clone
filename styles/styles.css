@@ -99,4 +99,16 @@ header div div a img {
     background-image: url(./assets/background-5.jpg);
 }
 
+footer {
+    display: flex;
+}
+
+.footer-col-1 {
+    display: flex;
+    flex-flow: column;
+}
+
+.footer-col-2 {
+    display: flex;
+}
 

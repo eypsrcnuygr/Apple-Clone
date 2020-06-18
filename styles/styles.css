@@ -20,6 +20,11 @@ main {
   background-size: 75%;
 }
 
+footer a {
+  text-decoration: none;
+  color: #08c;
+}
+
 .nav-container a {
   font-size: 18px;
   color: whitesmoke;
@@ -74,11 +79,6 @@ header div div a img {
   background-color: #707070;
 }
 
-footer a {
-  text-decoration: none;
-  color: #08c;
-}
-
 .main-headers a {
   text-decoration: none;
   color: white;
@@ -121,7 +121,7 @@ footer a {
 #main-item-4 {
   background-position-x: center;
   background-repeat: no-repeat;
-  height: 25vh;
+  height: 22vh;
 }
 
 #main-item-1 {

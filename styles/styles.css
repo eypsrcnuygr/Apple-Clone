@@ -6,6 +6,7 @@ header {
 body {
   height: 100vh;
   margin: 0;
+  padding: 0;
 }
 
 main {
@@ -149,7 +150,9 @@ footer a {
 
 footer {
   display: flex;
-  padding: 0 22%;
+  padding-left: 21%;
+  padding-top: 0;
+  margin-top: 20;
 }
 
 footer p {
@@ -157,7 +160,7 @@ footer p {
   font-size: 10px;
   font-weight: 400;
   color: #6e6e6e;
-  height: 12px;
+  height: 10px;
 }
 
 .footer-col-1 {
@@ -166,8 +169,8 @@ footer p {
 }
 
 .footer-col-2 {
-  display: flex;
-  padding-left: 40px;
+  display: inline-flex;
+  padding-left: 28px;
   padding-top: 0;
   height: 10px;
 }
@@ -179,7 +182,7 @@ footer p {
 }
 
 .footer-col-2 img {
-  width: 16px;
-  height: 16px;
-  padding: 10px 0 0 10px;
+  width: 10px;
+  height: 10px;
+  padding: 12px 0 0 10px;
 }

@@ -6,7 +6,6 @@ header {
 body {
   height: 100vh;
   margin: 0;
-  overflow-y: hidden;
 }
 
 main {
@@ -17,13 +16,15 @@ main {
   background-repeat: no-repeat;
   margin-bottom: 0;
   height: 70%;
+  background-size: 75%;
 }
 
-p {
+.nav-container a {
   font-size: 18px;
   color: whitesmoke;
   margin-top: 8px;
   margin-bottom: 8px;
+  text-decoration: none;
 }
 
 .nav-container {

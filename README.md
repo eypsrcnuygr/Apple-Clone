@@ -2,7 +2,7 @@
 
 > This is the Apple's old sites' clone.
 
-![img](./assets/Screenshot.png)
+![img](./styles/assets/Screenshot.png)
 
 ## Built With
 

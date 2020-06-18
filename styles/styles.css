@@ -30,12 +30,12 @@ p {
   border-radius: 5px;
 }
 
-.nav-container :first-child {
+.nav-container > :first-child {
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
 
-.nav-container :last-child {
+.nav-container > :last-child {
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
@@ -64,7 +64,7 @@ header div div a img {
 }
 
 .header-item input {
-  border-radius: 25px;
+  border-radius: 50px;
   background-image: url("./assets/search.png");
   background-size: 18px 18px;
   background-repeat: no-repeat;
